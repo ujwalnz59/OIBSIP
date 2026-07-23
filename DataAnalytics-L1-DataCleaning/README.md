@@ -36,4 +36,4 @@ Potential outliers were identified in Sales and Profit. They were not automatica
 Negative profit values were also retained because they represent actual business losses rather than incorrect data.
 
 ## Conclusion
-The Sample Superstore dataset was successfully cleaned and prepared for further analysis. The dataset was checked for missing values
+The Sample Superstore dataset was successfully cleaned and prepared for further analysis. The dataset was checked for missing values.
